@@ -1,5 +1,2 @@
 # BOJcpp
-
-
-### queue 2 
-### https://www.acmicpc.net/problem/18258
+### Queue 2: https://www.acmicpc.net/problem/18258
